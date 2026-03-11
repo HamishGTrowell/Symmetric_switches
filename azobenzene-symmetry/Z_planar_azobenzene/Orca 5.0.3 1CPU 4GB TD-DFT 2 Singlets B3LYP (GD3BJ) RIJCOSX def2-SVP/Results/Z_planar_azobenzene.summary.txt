@@ -1,0 +1,138 @@
+_id
+  ----------------------------------------
+  62d3951613e94ecc03f742dd92c973553f91b95a
+  ----------------------------------------
+
+metadata
+------------------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+name                                  Z_planar_azobenzene
+log_files                             /rds/general/user/hgt20/home/azobenzene-symmetry/Z_planar_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Output/Z_planar_azobenzene.log
+auxiliary_files:gbw_file              /tmp/hgt20/a6e8eaf454f94ae18c53473aed62928c/Output/Z_planar_azobenzene.gbw
+auxiliary_files:density_file          /tmp/hgt20/a6e8eaf454f94ae18c53473aed62928c/Output/Z_planar_azobenzene.densities
+history
+charge                                0.00
+multiplicity                          1.00
+user                                  hgt20
+package                               ORCA
+package_version                       5.0.3
+digichem_version                      6.10.3
+calculations                          Excited States
+methods                               DFT
+functional
+basis_set                             def2-SVP
+orbital_spin_type                     restricted
+success                               1.00
+optimisation_converged
+date / s
+date:string
+insert_date / s
+insert_date:string
+duration / s                          159.42
+duration:string                       2 m, 39 s
+temperature / K
+pressure / atm
+solvent:model
+solvent:name
+num_cpu                               1.00
+memory_used / KB                      94100.00
+memory_available / GB                 4.00
+performance:cpu_allocated             1.00
+performance:cpu_efficiency / %        0.05
+performance:memory_allocated / bytes  4000000000.00
+performance:maximum_memory / bytes    121884672.00
+performance:memory_margin / bytes     3878115328.00
+performance:memory_efficiency / %     2.21
+------------------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ground_state
+------------------  ---------
+index               0.00
+symbol              S(0)
+charge              0.00
+multiplicity        1.00
+multiplicity_index  0.00
+energy / eV         -15564.12
+------------------  ---------
+
+energies
+--------------  --------
+final / eV      -15564.1
+scf:num_steps   1
+scf:final / eV  -15564.1
+mp:num_steps    0
+mp:final / eV
+mp:order        0
+cc:num_steps    0
+cc:final / eV
+--------------  --------
+
+atoms
+---------------------  -----------------------
+formula                C12H10N2
+charge                 0.00
+smiles                 c1ccc(/N=N\c2ccccc2)cc1
+exact_mass / g mol^-1  182.23
+molar_mass / g mol^-1  182.22
+num_atoms              24.00
+x-extension / Å        8.75
+y-extension / Å        8.66
+z-extension / Å        3.17
+linearity_ratio        0.01
+planarity_ratio        0.63
+alignment_method       Minimal
+---------------------  -----------------------
+
+orbitals
+------------------  ------
+dE(HOMO-LUMO) / eV  1.96
+num_occupied        48.00
+num_virtual         198.00
+spin_type           none
+------------------  ------
+
+orbitals:HOMO
+--------------  -----
+index           48.00
+label           HOMO
+homo_distance   0.00
+energy / eV     -4.24
+symmetry        A
+symmetry_index  48.00
+--------------  -----
+
+orbitals:LUMO
+--------------  -----
+index           49.00
+label           LUMO
+homo_distance   1.00
+energy / eV     -2.29
+symmetry        A
+symmetry_index  49.00
+--------------  -----
+
+beta_orbitals
+------------------  -
+dE(HOMO-LUMO) / eV
+num_occupied        0
+num_virtual         0
+spin_type
+------------------  -
+
+pdm
+--------------  ------
+total / D       2.97
+origin:x / Å    -12.39
+origin:y / Å    3.82
+origin:z / Å    -0.03
+vector:x / D    -1.67
+vector:y / D    -2.13
+vector:z / D    -1.21
+x-angle / deg   29.51
+xy-angle / deg  5.52
+--------------  ------
+
+vibrations
+--------------  -
+num_vibrations  0
+num_negative    0
+--------------  -
