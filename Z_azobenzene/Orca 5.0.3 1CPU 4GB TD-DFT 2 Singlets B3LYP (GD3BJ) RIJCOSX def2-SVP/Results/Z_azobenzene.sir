@@ -1,0 +1,3218 @@
+_id: 40c8563884df05a152ec423486d3fedb9f8f572c
+atoms:
+  alignment_method: Minimal
+  charge: 0
+  exact_mass:
+    units: g mol^-1
+    value: 182.226
+  formula: C12H10N2
+  linearity_ratio: 0.4216345929282077
+  molar_mass:
+    units: g mol^-1
+    value: 182.22119999999998
+  num_atoms: 24
+  planarity_ratio: 0.11557696617530355
+  smiles: c1ccc(/N=N\c2ccccc2)cc1
+  values:
+  - coords:
+      x:
+        units: "\xC5"
+        value: -10.17089
+      y:
+        units: "\xC5"
+        value: 2.3468
+      z:
+        units: "\xC5"
+        value: -0.10637
+    element: 6
+    group: C1
+    index: 1
+    label: C1
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -10.19549
+      y:
+        units: "\xC5"
+        value: 0.9524
+      z:
+        units: "\xC5"
+        value: -0.18596
+    element: 6
+    group: C2
+    index: 2
+    label: C2
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -9.00514
+      y:
+        units: "\xC5"
+        value: 0.22716
+      z:
+        units: "\xC5"
+        value: -0.09469
+    element: 6
+    group: C1
+    index: 3
+    label: C3
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -7.78745
+      y:
+        units: "\xC5"
+        value: 0.89488
+      z:
+        units: "\xC5"
+        value: 0.06857
+    element: 6
+    group: C3
+    index: 4
+    label: C4
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -7.75151
+      y:
+        units: "\xC5"
+        value: 2.30332
+      z:
+        units: "\xC5"
+        value: 0.13075
+    element: 6
+    group: C4
+    index: 5
+    label: C5
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -8.95521
+      y:
+        units: "\xC5"
+        value: 3.01806
+      z:
+        units: "\xC5"
+        value: 0.05741
+    element: 6
+    group: C3
+    index: 6
+    label: C6
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -8.94887
+      y:
+        units: "\xC5"
+        value: 4.09907
+      z:
+        units: "\xC5"
+        value: 0.12145
+    element: 1
+    group: H3
+    index: 7
+    label: H7
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -11.09422
+      y:
+        units: "\xC5"
+        value: 2.90804
+      z:
+        units: "\xC5"
+        value: -0.16925
+    element: 1
+    group: H1
+    index: 8
+    label: H8
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -11.13722
+      y:
+        units: "\xC5"
+        value: 0.43375
+      z:
+        units: "\xC5"
+        value: -0.31084
+    element: 1
+    group: H2
+    index: 9
+    label: H9
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -9.02617
+      y:
+        units: "\xC5"
+        value: -0.85382
+      z:
+        units: "\xC5"
+        value: -0.14533
+    element: 1
+    group: H1
+    index: 10
+    label: H10
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.88283
+      y:
+        units: "\xC5"
+        value: 0.3086
+      z:
+        units: "\xC5"
+        value: 0.15424
+    element: 1
+    group: H3
+    index: 11
+    label: H11
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.53927
+      y:
+        units: "\xC5"
+        value: 3.03211
+      z:
+        units: "\xC5"
+        value: 0.32117
+    element: 7
+    group: N5
+    index: 12
+    label: N12
+    mass:
+      units: g mol^-1
+      value: 14.007
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.39359
+      y:
+        units: "\xC5"
+        value: 2.70438
+      z:
+        units: "\xC5"
+        value: -0.07585
+    element: 7
+    group: N5
+    index: 13
+    label: N13
+    mass:
+      units: g mol^-1
+      value: 14.007
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.08064
+      y:
+        units: "\xC5"
+        value: 1.76187
+      z:
+        units: "\xC5"
+        value: -1.10086
+    element: 6
+    group: C4
+    index: 14
+    label: C14
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -3.86882
+      y:
+        units: "\xC5"
+        value: 1.06222
+      z:
+        units: "\xC5"
+        value: -1.01655
+    element: 6
+    group: C3
+    index: 15
+    label: C15
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -3.50801
+      y:
+        units: "\xC5"
+        value: 0.14473
+      z:
+        units: "\xC5"
+        value: -2.00818
+    element: 6
+    group: C1
+    index: 16
+    label: C16
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -4.35072
+      y:
+        units: "\xC5"
+        value: -0.07273
+      z:
+        units: "\xC5"
+        value: -3.10081
+    element: 6
+    group: C2
+    index: 17
+    label: C17
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.55193
+      y:
+        units: "\xC5"
+        value: 0.63231
+      z:
+        units: "\xC5"
+        value: -3.20677
+    element: 6
+    group: C1
+    index: 18
+    label: C18
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.91644
+      y:
+        units: "\xC5"
+        value: 1.55021
+      z:
+        units: "\xC5"
+        value: -2.21689
+    element: 6
+    group: C3
+    index: 19
+    label: C19
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.84309
+      y:
+        units: "\xC5"
+        value: 2.09555
+      z:
+        units: "\xC5"
+        value: -2.33233
+    element: 1
+    group: H3
+    index: 20
+    label: H20
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -3.20583
+      y:
+        units: "\xC5"
+        value: 1.22516
+      z:
+        units: "\xC5"
+        value: -0.17595
+    element: 1
+    group: H3
+    index: 21
+    label: H21
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -2.57362
+      y:
+        units: "\xC5"
+        value: -0.39595
+      z:
+        units: "\xC5"
+        value: -1.93036
+    element: 1
+    group: H1
+    index: 22
+    label: H22
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -4.06956
+      y:
+        units: "\xC5"
+        value: -0.78174
+      z:
+        units: "\xC5"
+        value: -3.86873
+    element: 1
+    group: H2
+    index: 23
+    label: H23
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.19913
+      y:
+        units: "\xC5"
+        value: 0.47141
+      z:
+        units: "\xC5"
+        value: -4.05928
+    element: 1
+    group: H1
+    index: 24
+    label: H24
+    mass:
+      units: g mol^-1
+      value: 1.008
+  x-extension:
+    units: "\xC5"
+    value: 8.5636
+  y-extension:
+    units: "\xC5"
+    value: 4.95289
+  z-extension:
+    units: "\xC5"
+    value: 4.380450000000001
+beta_orbitals:
+  dE(HOMO-LUMO):
+    units: eV
+    value: null
+  num_occupied: 0
+  num_virtual: 0
+  spin_type: null
+  values: []
+emission:
+  adiabatic: {}
+  vertical: {}
+energies:
+  cc:
+    final:
+      units: eV
+      value: null
+    num_steps: 0
+    values: []
+  final:
+    units: eV
+    value: -15565.362143191101
+  mp:
+    final:
+      units: eV
+      value: null
+    num_steps: 0
+    order: 0
+    values: []
+  scf:
+    final:
+      units: eV
+      value: -15565.362143191101
+    num_steps: 1
+    values:
+    - units: eV
+      value: -15565.362143191101
+excited_states:
+  num_singlet: 2
+  values:
+  - cie:
+      x: 0.7136400090535175
+      y: 0.28631981965158176
+    colour: Red
+    energy:
+      units: eV
+      value: 1.9535870528258992
+    index: 1
+    multiplicity: 1
+    multiplicity_index: 1
+    oscillator_strength: 0.030018445
+    symbol: S(1)
+    symmetry: Singlet
+    tdm: null
+    transitions:
+    - coefficient: .nan
+      end:
+        index: 49
+        label: LUMO
+        spin: none
+      index: 1
+      probability: .nan
+      start:
+        index: 46
+        label: HOMO-2
+        spin: none
+    - coefficient: .nan
+      end:
+        index: 49
+        label: LUMO
+        spin: none
+      index: 2
+      probability: .nan
+      start:
+        index: 47
+        label: HOMO-1
+        spin: none
+    - coefficient: .nan
+      end:
+        index: 49
+        label: LUMO
+        spin: none
+      index: 3
+      probability: .nan
+      start:
+        index: 48
+        label: HOMO
+        spin: none
+    wavelength:
+      units: nm
+      value: 634.6489564099786
+  - cie:
+      x: 0.0
+      y: 0.0
+    colour: Ultraviolet
+    energy:
+      units: eV
+      value: 3.8187915231217673
+    index: 2
+    multiplicity: 1
+    multiplicity_index: 2
+    oscillator_strength: 0.035624758
+    symbol: S(2)
+    symmetry: Singlet
+    tdm: null
+    transitions:
+    - coefficient: .nan
+      end:
+        index: 49
+        label: LUMO
+        spin: none
+      index: 1
+      probability: .nan
+      start:
+        index: 46
+        label: HOMO-2
+        spin: none
+    - coefficient: .nan
+      end:
+        index: 49
+        label: LUMO
+        spin: none
+      index: 2
+      probability: .nan
+      start:
+        index: 47
+        label: HOMO-1
+        spin: none
+    - coefficient: .nan
+      end:
+        index: 49
+        label: LUMO
+        spin: none
+      index: 3
+      probability: .nan
+      start:
+        index: 48
+        label: HOMO
+        spin: none
+    - coefficient: .nan
+      end:
+        index: 50
+        label: LUMO+1
+        spin: none
+      index: 4
+      probability: .nan
+      start:
+        index: 48
+        label: HOMO
+        spin: none
+    wavelength:
+      units: nm
+      value: 324.6686751096752
+ground_state:
+  charge: 0
+  energy:
+    units: eV
+    value: -15565.362143191101
+  index: 0
+  multiplicity: 1
+  multiplicity_index: 0
+  symbol: S(0)
+metadata:
+  auxiliary_files:
+    density_file: /tmp/hgt20/4add3f34755c465dba5dc73ad29e399c/Output/Z_azobenzene.densities
+    gbw_file: /tmp/hgt20/4add3f34755c465dba5dc73ad29e399c/Output/Z_azobenzene.gbw
+  basis_set: def2-SVP
+  calculations:
+  - Excited States
+  charge: 0
+  date:
+    string: null
+    units: s
+    value: null
+  digichem_version: 6.10.3
+  duration:
+    string: 3 m, 3 s
+    units: s
+    value: 182.796
+  functional: null
+  history: null
+  insert_date:
+    string: null
+    units: s
+    value: null
+  log_files:
+  - /rds/general/user/hgt20/home/azobenzene-symmetry/Z_azobenzene/Orca 5.0.3 1CPU
+    4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Output/Z_azobenzene.log
+  memory_available:
+    units: GB
+    value: 4
+  memory_used:
+    units: KB
+    value: 97400
+  methods:
+  - DFT
+  multiplicity: 1
+  name: Z_azobenzene
+  num_cpu: 1
+  optimisation_converged: null
+  orbital_spin_type: restricted
+  package: ORCA
+  package_version: 5.0.3
+  performance:
+    cpu_allocated: 1
+    cpu_efficiency:
+      units: '%'
+      value: 15.82968840830069
+    maximum_memory:
+      units: bytes
+      value: 124481536.0
+    memory_allocated:
+      units: bytes
+      value: 4000000000.0
+    memory_efficiency:
+      units: '%'
+      value: 2.375190090101176
+    memory_margin:
+      units: bytes
+      value: 3875518464.0
+    values:
+    - cpu_used:
+        units: '%'
+        value: 0.0
+      duration:
+        units: s
+        value: 0.084257
+      memory_available:
+        units: bytes
+        value: 892086226944.0
+      memory_available_percent:
+        units: bytes
+        value: 82.4
+      memory_used:
+        units: bytes
+        value: 8192.0
+      memory_used_percent:
+        units: '%'
+        value: 7.570907491823308e-07
+      output_space:
+        units: bytes
+        value: 1378841016664064.0
+      scratch_space:
+        units: bytes
+        value: 224335970304.0
+      scratch_used:
+        units: bytes
+        value: 1722.0
+    - cpu_used:
+        units: '%'
+        value: 0.1
+      duration:
+        units: s
+        value: 60.162192
+      memory_available:
+        units: bytes
+        value: 886373625856.0
+      memory_available_percent:
+        units: bytes
+        value: 81.9
+      memory_used:
+        units: bytes
+        value: 124481536.0
+      memory_used_percent:
+        units: '%'
+        value: 0.011504372479200106
+      output_space:
+        units: bytes
+        value: 1378819181117440.0
+      scratch_space:
+        units: bytes
+        value: 224072986624.0
+      scratch_used:
+        units: bytes
+        value: 65507687.0
+    - cpu_used:
+        units: '%'
+        value: 0.0
+      duration:
+        units: s
+        value: 120.199484
+      memory_available:
+        units: bytes
+        value: 883121344512.0
+      memory_available_percent:
+        units: bytes
+        value: 81.6
+      memory_used:
+        units: bytes
+        value: 119808000.0
+      memory_used_percent:
+        units: '%'
+        value: 0.011072452206791586
+      output_space:
+        units: bytes
+        value: 1378797479788544.0
+      scratch_space:
+        units: bytes
+        value: 224030162944.0
+      scratch_used:
+        units: bytes
+        value: 86928292.0
+    - cpu_used:
+        units: '%'
+        value: 93.4
+      duration:
+        units: s
+        value: 181.597661
+      memory_available:
+        units: bytes
+        value: 897607925760.0
+      memory_available_percent:
+        units: bytes
+        value: 83.0
+      memory_used:
+        units: bytes
+        value: 81252352.0
+      memory_used_percent:
+        units: '%'
+        value: 0.007509204595764946
+      output_space:
+        units: bytes
+        value: 1378775065427968.0
+      scratch_space:
+        units: bytes
+        value: 224068259840.0
+      scratch_used:
+        units: bytes
+        value: 87143740.0
+  pressure:
+    units: atm
+    value: null
+  solvent:
+    model: null
+    name: null
+    params: {}
+  success: true
+  temperature:
+    units: K
+    value: null
+  user: hgt20
+nmr:
+  groups: {}
+  values: []
+orbitals:
+  dE(HOMO-LUMO):
+    units: eV
+    value: 3.1408469080112
+  num_occupied: 48
+  num_virtual: 198
+  spin_type: none
+  values:
+  - energy:
+      units: eV
+      value: -391.10942780334534
+    homo_distance: -47
+    index: 1
+    label: HOMO-47
+    symmetry: A
+    symmetry_index: 1
+  - energy:
+      units: eV
+      value: -391.10608080298425
+    homo_distance: -46
+    index: 2
+    label: HOMO-46
+    symmetry: A
+    symmetry_index: 2
+  - energy:
+      units: eV
+      value: -278.2812564988124
+    homo_distance: -45
+    index: 3
+    label: HOMO-45
+    symmetry: A
+    symmetry_index: 3
+  - energy:
+      units: eV
+      value: -278.27880747415793
+    homo_distance: -44
+    index: 4
+    label: HOMO-44
+    symmetry: A
+    symmetry_index: 4
+  - energy:
+      units: eV
+      value: -277.5248072058074
+    homo_distance: -43
+    index: 5
+    label: HOMO-43
+    symmetry: A
+    symmetry_index: 5
+  - energy:
+      units: eV
+      value: -277.52358269348025
+    homo_distance: -42
+    index: 6
+    label: HOMO-42
+    symmetry: A
+    symmetry_index: 6
+  - energy:
+      units: eV
+      value: -277.5110110335871
+    homo_distance: -41
+    index: 7
+    label: HOMO-41
+    symmetry: A
+    symmetry_index: 7
+  - energy:
+      units: eV
+      value: -277.51084776527676
+    homo_distance: -40
+    index: 8
+    label: HOMO-40
+    symmetry: A
+    symmetry_index: 8
+  - energy:
+      units: eV
+      value: -277.5103579603459
+    homo_distance: -39
+    index: 9
+    label: HOMO-39
+    symmetry: A
+    symmetry_index: 9
+  - energy:
+      units: eV
+      value: -277.5101402692655
+    homo_distance: -38
+    index: 10
+    label: HOMO-38
+    symmetry: A
+    symmetry_index: 10
+  - energy:
+      units: eV
+      value: -277.49963667463624
+    homo_distance: -37
+    index: 11
+    label: HOMO-37
+    symmetry: A
+    symmetry_index: 11
+  - energy:
+      units: eV
+      value: -277.4995822518661
+    homo_distance: -36
+    index: 12
+    label: HOMO-36
+    symmetry: A
+    symmetry_index: 12
+  - energy:
+      units: eV
+      value: -277.4808336075667
+    homo_distance: -35
+    index: 13
+    label: HOMO-35
+    symmetry: A
+    symmetry_index: 13
+  - energy:
+      units: eV
+      value: -277.48056149371615
+    homo_distance: -34
+    index: 14
+    label: HOMO-34
+    symmetry: A
+    symmetry_index: 14
+  - energy:
+      units: eV
+      value: -27.66181510673265
+    homo_distance: -33
+    index: 15
+    label: HOMO-33
+    symmetry: A
+    symmetry_index: 15
+  - energy:
+      units: eV
+      value: -23.52622880683365
+    homo_distance: -32
+    index: 16
+    label: HOMO-32
+    symmetry: A
+    symmetry_index: 16
+  - energy:
+      units: eV
+      value: -23.23207373444315
+    homo_distance: -31
+    index: 17
+    label: HOMO-31
+    symmetry: A
+    symmetry_index: 17
+  - energy:
+      units: eV
+      value: -21.4390883621136
+    homo_distance: -30
+    index: 18
+    label: HOMO-30
+    symmetry: A
+    symmetry_index: 18
+  - energy:
+      units: eV
+      value: -20.41640287777945
+    homo_distance: -29
+    index: 19
+    label: HOMO-29
+    symmetry: A
+    symmetry_index: 19
+  - energy:
+      units: eV
+      value: -20.3857900695982
+    homo_distance: -28
+    index: 20
+    label: HOMO-28
+    symmetry: A
+    symmetry_index: 20
+  - energy:
+      units: eV
+      value: -20.30320351597145
+    homo_distance: -27
+    index: 21
+    label: HOMO-27
+    symmetry: A
+    symmetry_index: 21
+  - energy:
+      units: eV
+      value: -18.3667052988882
+    homo_distance: -26
+    index: 22
+    label: HOMO-26
+    symmetry: A
+    symmetry_index: 22
+  - energy:
+      units: eV
+      value: -17.001455688159602
+    homo_distance: -25
+    index: 23
+    label: HOMO-25
+    symmetry: A
+    symmetry_index: 23
+  - energy:
+      units: eV
+      value: -16.6994093141046
+    homo_distance: -24
+    index: 24
+    label: HOMO-24
+    symmetry: A
+    symmetry_index: 24
+  - energy:
+      units: eV
+      value: -16.55886251032135
+    homo_distance: -23
+    index: 25
+    label: HOMO-23
+    symmetry: A
+    symmetry_index: 25
+  - energy:
+      units: eV
+      value: -15.52689794368515
+    homo_distance: -22
+    index: 26
+    label: HOMO-22
+    symmetry: A
+    symmetry_index: 26
+  - energy:
+      units: eV
+      value: -14.962697086058451
+    homo_distance: -21
+    index: 27
+    label: HOMO-21
+    symmetry: A
+    symmetry_index: 27
+  - energy:
+      units: eV
+      value: -13.6970683559979
+    homo_distance: -20
+    index: 28
+    label: HOMO-20
+    symmetry: A
+    symmetry_index: 28
+  - energy:
+      units: eV
+      value: -13.429607652341451
+    homo_distance: -19
+    index: 29
+    label: HOMO-19
+    symmetry: A
+    symmetry_index: 29
+  - energy:
+      units: eV
+      value: -12.87057695787425
+    homo_distance: -18
+    index: 30
+    label: HOMO-18
+    symmetry: A
+    symmetry_index: 30
+  - energy:
+      units: eV
+      value: -12.79868447857215
+    homo_distance: -17
+    index: 31
+    label: HOMO-17
+    symmetry: A
+    symmetry_index: 31
+  - energy:
+      units: eV
+      value: -12.31638988994595
+    homo_distance: -16
+    index: 32
+    label: HOMO-16
+    symmetry: A
+    symmetry_index: 32
+  - energy:
+      units: eV
+      value: -12.1604958649945
+    homo_distance: -15
+    index: 33
+    label: HOMO-15
+    symmetry: A
+    symmetry_index: 33
+  - energy:
+      units: eV
+      value: -11.779971856455301
+    homo_distance: -14
+    index: 34
+    label: HOMO-14
+    symmetry: A
+    symmetry_index: 34
+  - energy:
+      units: eV
+      value: -11.74718213747005
+    homo_distance: -13
+    index: 35
+    label: HOMO-13
+    symmetry: A
+    symmetry_index: 35
+  - energy:
+      units: eV
+      value: -10.981970778479
+    homo_distance: -12
+    index: 36
+    label: HOMO-12
+    symmetry: A
+    symmetry_index: 36
+  - energy:
+      units: eV
+      value: -10.882186629500652
+    homo_distance: -11
+    index: 37
+    label: HOMO-11
+    symmetry: A
+    symmetry_index: 37
+  - energy:
+      units: eV
+      value: -10.1962148237752
+    homo_distance: -10
+    index: 38
+    label: HOMO-10
+    symmetry: A
+    symmetry_index: 38
+  - energy:
+      units: eV
+      value: -10.13485315048745
+    homo_distance: -9
+    index: 39
+    label: HOMO-9
+    symmetry: A
+    symmetry_index: 39
+  - energy:
+      units: eV
+      value: -10.02910970818315
+    homo_distance: -8
+    index: 40
+    label: HOMO-8
+    symmetry: A
+    symmetry_index: 40
+  - energy:
+      units: eV
+      value: -9.9787414344556
+    homo_distance: -7
+    index: 41
+    label: HOMO-7
+    symmetry: A
+    symmetry_index: 41
+  - energy:
+      units: eV
+      value: -9.496229154749
+    homo_distance: -6
+    index: 42
+    label: HOMO-6
+    symmetry: A
+    symmetry_index: 42
+  - energy:
+      units: eV
+      value: -9.32466137200875
+    homo_distance: -5
+    index: 43
+    label: HOMO-5
+    symmetry: A
+    symmetry_index: 43
+  - energy:
+      units: eV
+      value: -7.427918988483551
+    homo_distance: -4
+    index: 44
+    label: HOMO-4
+    symmetry: A
+    symmetry_index: 44
+  - energy:
+      units: eV
+      value: -7.241956383051851
+    homo_distance: -3
+    index: 45
+    label: HOMO-3
+    symmetry: A
+    symmetry_index: 45
+  - energy:
+      units: eV
+      value: -7.18981936929605
+    homo_distance: -2
+    index: 46
+    label: HOMO-2
+    symmetry: A
+    symmetry_index: 46
+  - energy:
+      units: eV
+      value: -6.9266580644775
+    homo_distance: -1
+    index: 47
+    label: HOMO-1
+    symmetry: A
+    symmetry_index: 47
+  - energy:
+      units: eV
+      value: -5.47493067206
+    homo_distance: 0
+    index: 48
+    label: HOMO
+    symmetry: A
+    symmetry_index: 48
+  - energy:
+      units: eV
+      value: -2.3340837640488004
+    homo_distance: 1
+    index: 49
+    label: LUMO
+    symmetry: A
+    symmetry_index: 49
+  - energy:
+      units: eV
+      value: -0.6833867241457
+    homo_distance: 2
+    index: 50
+    label: LUMO+1
+    symmetry: A
+    symmetry_index: 50
+  - energy:
+      units: eV
+      value: -0.24400448974334998
+    homo_distance: 3
+    index: 51
+    label: LUMO+2
+    symmetry: A
+    symmetry_index: 51
+  - energy:
+      units: eV
+      value: -0.1678398229884
+    homo_distance: 4
+    index: 52
+    label: LUMO+3
+    symmetry: A
+    symmetry_index: 52
+  - energy:
+      units: eV
+      value: 0.67938665054335
+    homo_distance: 5
+    index: 53
+    label: LUMO+4
+    symmetry: A
+    symmetry_index: 53
+  - energy:
+      units: eV
+      value: 1.66465648043375
+    homo_distance: 6
+    index: 54
+    label: LUMO+5
+    symmetry: A
+    symmetry_index: 54
+  - energy:
+      units: eV
+      value: 1.7367938622013
+    homo_distance: 7
+    index: 55
+    label: LUMO+6
+    symmetry: A
+    symmetry_index: 55
+  - energy:
+      units: eV
+      value: 2.6414907809586503
+    homo_distance: 8
+    index: 56
+    label: LUMO+7
+    symmetry: A
+    symmetry_index: 56
+  - energy:
+      units: eV
+      value: 2.6965394129148
+    homo_distance: 9
+    index: 57
+    label: LUMO+8
+    symmetry: A
+    symmetry_index: 57
+  - energy:
+      units: eV
+      value: 2.9914564040867
+    homo_distance: 10
+    index: 58
+    label: LUMO+9
+    symmetry: A
+    symmetry_index: 58
+  - energy:
+      units: eV
+      value: 3.16808550444625
+    homo_distance: 11
+    index: 59
+    label: LUMO+10
+    symmetry: A
+    symmetry_index: 59
+  - energy:
+      units: eV
+      value: 3.77495381383135
+    homo_distance: 12
+    index: 60
+    label: LUMO+11
+    symmetry: A
+    symmetry_index: 60
+  - energy:
+      units: eV
+      value: 3.8497034885636996
+    homo_distance: 13
+    index: 61
+    label: LUMO+12
+    symmetry: A
+    symmetry_index: 61
+  - energy:
+      units: eV
+      value: 3.9150652354538003
+    homo_distance: 14
+    index: 62
+    label: LUMO+13
+    symmetry: A
+    symmetry_index: 62
+  - energy:
+      units: eV
+      value: 4.04848265635395
+    homo_distance: 15
+    index: 63
+    label: LUMO+14
+    symmetry: A
+    symmetry_index: 63
+  - energy:
+      units: eV
+      value: 4.16434873389685
+    homo_distance: 16
+    index: 64
+    label: LUMO+15
+    symmetry: A
+    symmetry_index: 64
+  - energy:
+      units: eV
+      value: 4.248323068161151
+    homo_distance: 17
+    index: 65
+    label: LUMO+16
+    symmetry: A
+    symmetry_index: 65
+  - energy:
+      units: eV
+      value: 6.0285190895172
+    homo_distance: 18
+    index: 66
+    label: LUMO+17
+    symmetry: A
+    symmetry_index: 66
+  - energy:
+      units: eV
+      value: 6.4811532684389
+    homo_distance: 19
+    index: 67
+    label: LUMO+18
+    symmetry: A
+    symmetry_index: 67
+  - energy:
+      units: eV
+      value: 7.1657645049118495
+    homo_distance: 20
+    index: 68
+    label: LUMO+19
+    symmetry: A
+    symmetry_index: 68
+  - energy:
+      units: eV
+      value: 7.1750980099840005
+    homo_distance: 21
+    index: 69
+    label: LUMO+20
+    symmetry: A
+    symmetry_index: 69
+  - energy:
+      units: eV
+      value: 7.687461179090451
+    homo_distance: 22
+    index: 70
+    label: LUMO+21
+    symmetry: A
+    symmetry_index: 70
+  - energy:
+      units: eV
+      value: 7.758755007921451
+    homo_distance: 23
+    index: 71
+    label: LUMO+22
+    symmetry: A
+    symmetry_index: 71
+  - energy:
+      units: eV
+      value: 8.087495750710499
+    homo_distance: 24
+    index: 72
+    label: LUMO+23
+    symmetry: A
+    symmetry_index: 72
+  - energy:
+      units: eV
+      value: 8.2686691523734
+    homo_distance: 25
+    index: 73
+    label: LUMO+24
+    symmetry: A
+    symmetry_index: 73
+  - energy:
+      units: eV
+      value: 8.405923378565602
+    homo_distance: 26
+    index: 74
+    label: LUMO+25
+    symmetry: A
+    symmetry_index: 74
+  - energy:
+      units: eV
+      value: 8.774038995522
+    homo_distance: 27
+    index: 75
+    label: LUMO+26
+    symmetry: A
+    symmetry_index: 75
+  - energy:
+      units: eV
+      value: 9.79373122750065
+    homo_distance: 28
+    index: 76
+    label: LUMO+27
+    symmetry: A
+    symmetry_index: 76
+  - energy:
+      units: eV
+      value: 9.8333237927484
+    homo_distance: 29
+    index: 77
+    label: LUMO+28
+    symmetry: A
+    symmetry_index: 77
+  - energy:
+      units: eV
+      value: 10.486179342867999
+    homo_distance: 30
+    index: 78
+    label: LUMO+29
+    symmetry: A
+    symmetry_index: 78
+  - energy:
+      units: eV
+      value: 10.770402259715251
+    homo_distance: 31
+    index: 79
+    label: LUMO+30
+    symmetry: A
+    symmetry_index: 79
+  - energy:
+      units: eV
+      value: 10.7836542042346
+    homo_distance: 32
+    index: 80
+    label: LUMO+31
+    symmetry: A
+    symmetry_index: 80
+  - energy:
+      units: eV
+      value: 11.1861105891241
+    homo_distance: 33
+    index: 81
+    label: LUMO+32
+    symmetry: A
+    symmetry_index: 81
+  - energy:
+      units: eV
+      value: 11.478306441791
+    homo_distance: 34
+    index: 82
+    label: LUMO+33
+    symmetry: A
+    symmetry_index: 82
+  - energy:
+      units: eV
+      value: 11.5279400081222
+    homo_distance: 35
+    index: 83
+    label: LUMO+34
+    symmetry: A
+    symmetry_index: 83
+  - energy:
+      units: eV
+      value: 12.0652560173195
+    homo_distance: 36
+    index: 84
+    label: LUMO+35
+    symmetry: A
+    symmetry_index: 84
+  - energy:
+      units: eV
+      value: 12.25032064704455
+    homo_distance: 37
+    index: 85
+    label: LUMO+36
+    symmetry: A
+    symmetry_index: 85
+  - energy:
+      units: eV
+      value: 12.578544373517651
+    homo_distance: 38
+    index: 86
+    label: LUMO+37
+    symmetry: A
+    symmetry_index: 86
+  - energy:
+      units: eV
+      value: 12.695281215382149
+    homo_distance: 39
+    index: 87
+    label: LUMO+38
+    symmetry: A
+    symmetry_index: 87
+  - energy:
+      units: eV
+      value: 13.08326114342505
+    homo_distance: 40
+    index: 88
+    label: LUMO+39
+    symmetry: A
+    symmetry_index: 88
+  - energy:
+      units: eV
+      value: 13.164623184724551
+    homo_distance: 41
+    index: 89
+    label: LUMO+40
+    symmetry: A
+    symmetry_index: 89
+  - energy:
+      units: eV
+      value: 13.287264897144901
+    homo_distance: 42
+    index: 90
+    label: LUMO+41
+    symmetry: A
+    symmetry_index: 90
+  - energy:
+      units: eV
+      value: 13.5011463836379
+    homo_distance: 43
+    index: 91
+    label: LUMO+42
+    symmetry: A
+    symmetry_index: 91
+  - energy:
+      units: eV
+      value: 13.59880804458235
+    homo_distance: 44
+    index: 92
+    label: LUMO+43
+    symmetry: A
+    symmetry_index: 92
+  - energy:
+      units: eV
+      value: 13.606780980402002
+    homo_distance: 45
+    index: 93
+    label: LUMO+44
+    symmetry: A
+    symmetry_index: 93
+  - energy:
+      units: eV
+      value: 14.2230100062443
+    homo_distance: 46
+    index: 94
+    label: LUMO+45
+    symmetry: A
+    symmetry_index: 94
+  - energy:
+      units: eV
+      value: 14.6741203476032
+    homo_distance: 47
+    index: 95
+    label: LUMO+46
+    symmetry: A
+    symmetry_index: 95
+  - energy:
+      units: eV
+      value: 14.8830493620171
+    homo_distance: 48
+    index: 96
+    label: LUMO+47
+    symmetry: A
+    symmetry_index: 96
+  - energy:
+      units: eV
+      value: 15.218729007993902
+    homo_distance: 49
+    index: 97
+    label: LUMO+48
+    symmetry: A
+    symmetry_index: 97
+  - energy:
+      units: eV
+      value: 15.636859150672201
+    homo_distance: 50
+    index: 98
+    label: LUMO+49
+    symmetry: A
+    symmetry_index: 98
+  - energy:
+      units: eV
+      value: 15.723772314521899
+    homo_distance: 51
+    index: 99
+    label: LUMO+50
+    symmetry: A
+    symmetry_index: 99
+  - energy:
+      units: eV
+      value: 16.00837619075985
+    homo_distance: 52
+    index: 100
+    label: LUMO+51
+    symmetry: A
+    symmetry_index: 100
+  - energy:
+      units: eV
+      value: 16.479677379825848
+    homo_distance: 53
+    index: 101
+    label: LUMO+52
+    symmetry: A
+    symmetry_index: 101
+  - energy:
+      units: eV
+      value: 16.833289328550602
+    homo_distance: 54
+    index: 102
+    label: LUMO+53
+    symmetry: A
+    symmetry_index: 102
+  - energy:
+      units: eV
+      value: 16.96970000180625
+    homo_distance: 55
+    index: 103
+    label: LUMO+54
+    symmetry: A
+    symmetry_index: 103
+  - energy:
+      units: eV
+      value: 17.227228549919452
+    homo_distance: 56
+    index: 104
+    label: LUMO+55
+    symmetry: A
+    symmetry_index: 104
+  - energy:
+      units: eV
+      value: 17.49531511543205
+    homo_distance: 57
+    index: 105
+    label: LUMO+56
+    symmetry: A
+    symmetry_index: 105
+  - energy:
+      units: eV
+      value: 17.79719822117675
+    homo_distance: 58
+    index: 106
+    label: LUMO+57
+    symmetry: A
+    symmetry_index: 106
+  - energy:
+      units: eV
+      value: 17.912737762099052
+    homo_distance: 59
+    index: 107
+    label: LUMO+58
+    symmetry: A
+    symmetry_index: 107
+  - energy:
+      units: eV
+      value: 18.07284955173325
+    homo_distance: 60
+    index: 108
+    label: LUMO+59
+    symmetry: A
+    symmetry_index: 108
+  - energy:
+      units: eV
+      value: 18.54132075675405
+    homo_distance: 61
+    index: 109
+    label: LUMO+60
+    symmetry: A
+    symmetry_index: 109
+  - energy:
+      units: eV
+      value: 18.60548520270195
+    homo_distance: 62
+    index: 110
+    label: LUMO+61
+    symmetry: A
+    symmetry_index: 110
+  - energy:
+      units: eV
+      value: 18.9036403486948
+    homo_distance: 63
+    index: 111
+    label: LUMO+62
+    symmetry: A
+    symmetry_index: 111
+  - energy:
+      units: eV
+      value: 18.97653964924375
+    homo_distance: 64
+    index: 112
+    label: LUMO+63
+    symmetry: A
+    symmetry_index: 112
+  - energy:
+      units: eV
+      value: 19.250993678858052
+    homo_distance: 65
+    index: 113
+    label: LUMO+64
+    symmetry: A
+    symmetry_index: 113
+  - energy:
+      units: eV
+      value: 19.40544550040185
+    homo_distance: 66
+    index: 114
+    label: LUMO+65
+    symmetry: A
+    symmetry_index: 114
+  - energy:
+      units: eV
+      value: 19.5266177980295
+    homo_distance: 67
+    index: 115
+    label: LUMO+66
+    symmetry: A
+    symmetry_index: 115
+  - energy:
+      units: eV
+      value: 19.58362564970925
+    homo_distance: 68
+    index: 116
+    label: LUMO+67
+    symmetry: A
+    symmetry_index: 116
+  - energy:
+      units: eV
+      value: 19.99288488086125
+    homo_distance: 69
+    index: 117
+    label: LUMO+68
+    symmetry: A
+    symmetry_index: 117
+  - energy:
+      units: eV
+      value: 20.2667674713895
+    homo_distance: 70
+    index: 118
+    label: LUMO+69
+    symmetry: A
+    symmetry_index: 118
+  - energy:
+      units: eV
+      value: 20.42870242382205
+    homo_distance: 71
+    index: 119
+    label: LUMO+70
+    symmetry: A
+    symmetry_index: 119
+  - energy:
+      units: eV
+      value: 20.435614115624748
+    homo_distance: 72
+    index: 120
+    label: LUMO+71
+    symmetry: A
+    symmetry_index: 120
+  - energy:
+      units: eV
+      value: 20.67409469420295
+    homo_distance: 73
+    index: 121
+    label: LUMO+72
+    symmetry: A
+    symmetry_index: 121
+  - energy:
+      units: eV
+      value: 21.2856705732017
+    homo_distance: 74
+    index: 122
+    label: LUMO+73
+    symmetry: A
+    symmetry_index: 122
+  - energy:
+      units: eV
+      value: 21.85038844714435
+    homo_distance: 75
+    index: 123
+    label: LUMO+74
+    symmetry: A
+    symmetry_index: 123
+  - energy:
+      units: eV
+      value: 21.96347896341215
+    homo_distance: 76
+    index: 124
+    label: LUMO+75
+    symmetry: A
+    symmetry_index: 124
+  - energy:
+      units: eV
+      value: 22.375214430603698
+    homo_distance: 77
+    index: 125
+    label: LUMO+76
+    symmetry: A
+    symmetry_index: 125
+  - energy:
+      units: eV
+      value: 23.1770795252571
+    homo_distance: 78
+    index: 126
+    label: LUMO+77
+    symmetry: A
+    symmetry_index: 126
+  - energy:
+      units: eV
+      value: 24.228473020819
+    homo_distance: 79
+    index: 127
+    label: LUMO+78
+    symmetry: A
+    symmetry_index: 127
+  - energy:
+      units: eV
+      value: 24.5965342150053
+    homo_distance: 80
+    index: 128
+    label: LUMO+79
+    symmetry: A
+    symmetry_index: 128
+  - energy:
+      units: eV
+      value: 24.8280486790107
+    homo_distance: 81
+    index: 129
+    label: LUMO+80
+    symmetry: A
+    symmetry_index: 129
+  - energy:
+      units: eV
+      value: 25.2849278340002
+    homo_distance: 82
+    index: 130
+    label: LUMO+81
+    symmetry: A
+    symmetry_index: 130
+  - energy:
+      units: eV
+      value: 25.42950192277085
+    homo_distance: 83
+    index: 131
+    label: LUMO+82
+    symmetry: A
+    symmetry_index: 131
+  - energy:
+      units: eV
+      value: 25.9450760353132
+    homo_distance: 84
+    index: 132
+    label: LUMO+83
+    symmetry: A
+    symmetry_index: 132
+  - energy:
+      units: eV
+      value: 26.83246651317875
+    homo_distance: 85
+    index: 133
+    label: LUMO+84
+    symmetry: A
+    symmetry_index: 133
+  - energy:
+      units: eV
+      value: 27.899152807138748
+    homo_distance: 86
+    index: 134
+    label: LUMO+85
+    symmetry: A
+    symmetry_index: 134
+  - energy:
+      units: eV
+      value: 28.8942459470322
+    homo_distance: 87
+    index: 135
+    label: LUMO+86
+    symmetry: A
+    symmetry_index: 135
+  - energy:
+      units: eV
+      value: 29.248075586837352
+    homo_distance: 88
+    index: 136
+    label: LUMO+87
+    symmetry: A
+    symmetry_index: 136
+  - energy:
+      units: eV
+      value: 29.8422361794041
+    homo_distance: 89
+    index: 137
+    label: LUMO+88
+    symmetry: A
+    symmetry_index: 137
+  - energy:
+      units: eV
+      value: 30.1899976803431
+    homo_distance: 90
+    index: 138
+    label: LUMO+89
+    symmetry: A
+    symmetry_index: 138
+  - energy:
+      units: eV
+      value: 31.30710667080075
+    homo_distance: 91
+    index: 139
+    label: LUMO+90
+    symmetry: A
+    symmetry_index: 139
+  - energy:
+      units: eV
+      value: 32.3072611283135
+    homo_distance: 92
+    index: 140
+    label: LUMO+91
+    symmetry: A
+    symmetry_index: 140
+  - energy:
+      units: eV
+      value: 32.69613903206305
+    homo_distance: 93
+    index: 141
+    label: LUMO+92
+    symmetry: A
+    symmetry_index: 141
+  - energy:
+      units: eV
+      value: 33.33266775115265
+    homo_distance: 94
+    index: 142
+    label: LUMO+93
+    symmetry: A
+    symmetry_index: 142
+  - energy:
+      units: eV
+      value: 33.4968884599294
+    homo_distance: 95
+    index: 143
+    label: LUMO+94
+    symmetry: A
+    symmetry_index: 143
+  - energy:
+      units: eV
+      value: 34.039810014447
+    homo_distance: 96
+    index: 144
+    label: LUMO+95
+    symmetry: A
+    symmetry_index: 144
+  - energy:
+      units: eV
+      value: 34.16620689800425
+    homo_distance: 97
+    index: 145
+    label: LUMO+96
+    symmetry: A
+    symmetry_index: 145
+  - energy:
+      units: eV
+      value: 34.474920061396496
+    homo_distance: 98
+    index: 146
+    label: LUMO+97
+    symmetry: A
+    symmetry_index: 146
+  - energy:
+      units: eV
+      value: 34.6318209075948
+    homo_distance: 99
+    index: 147
+    label: LUMO+98
+    symmetry: A
+    symmetry_index: 147
+  - energy:
+      units: eV
+      value: 34.89373048870105
+    homo_distance: 100
+    index: 148
+    label: LUMO+99
+    symmetry: A
+    symmetry_index: 148
+  - energy:
+      units: eV
+      value: 34.997922882057495
+    homo_distance: 101
+    index: 149
+    label: LUMO+100
+    symmetry: A
+    symmetry_index: 149
+  - energy:
+      units: eV
+      value: 35.41733195983315
+    homo_distance: 102
+    index: 150
+    label: LUMO+101
+    symmetry: A
+    symmetry_index: 150
+  - energy:
+      units: eV
+      value: 35.5261502886481
+    homo_distance: 103
+    index: 151
+    label: LUMO+102
+    symmetry: A
+    symmetry_index: 151
+  - energy:
+      units: eV
+      value: 35.89053794585265
+    homo_distance: 104
+    index: 152
+    label: LUMO+103
+    symmetry: A
+    symmetry_index: 152
+  - energy:
+      units: eV
+      value: 36.9978508376923
+    homo_distance: 105
+    index: 153
+    label: LUMO+104
+    symmetry: A
+    symmetry_index: 153
+  - energy:
+      units: eV
+      value: 37.5768002660161
+    homo_distance: 106
+    index: 154
+    label: LUMO+105
+    symmetry: A
+    symmetry_index: 154
+  - energy:
+      units: eV
+      value: 39.94068049669465
+    homo_distance: 107
+    index: 155
+    label: LUMO+106
+    symmetry: A
+    symmetry_index: 155
+  - energy:
+      units: eV
+      value: 40.4770985301853
+    homo_distance: 108
+    index: 156
+    label: LUMO+107
+    symmetry: A
+    symmetry_index: 156
+  - energy:
+      units: eV
+      value: 41.103368557111054
+    homo_distance: 109
+    index: 157
+    label: LUMO+108
+    symmetry: A
+    symmetry_index: 157
+  - energy:
+      units: eV
+      value: 41.3148826531047
+    homo_distance: 110
+    index: 158
+    label: LUMO+109
+    symmetry: A
+    symmetry_index: 158
+  - energy:
+      units: eV
+      value: 44.843083627302654
+    homo_distance: 111
+    index: 159
+    label: LUMO+110
+    symmetry: A
+    symmetry_index: 159
+  - energy:
+      units: eV
+      value: 45.14545653797825
+    homo_distance: 112
+    index: 160
+    label: LUMO+111
+    symmetry: A
+    symmetry_index: 160
+  - energy:
+      units: eV
+      value: 45.190953973781845
+    homo_distance: 113
+    index: 161
+    label: LUMO+112
+    symmetry: A
+    symmetry_index: 161
+  - energy:
+      units: eV
+      value: 45.69420132889655
+    homo_distance: 114
+    index: 162
+    label: LUMO+113
+    symmetry: A
+    symmetry_index: 162
+  - energy:
+      units: eV
+      value: 45.881361235270454
+    homo_distance: 115
+    index: 163
+    label: LUMO+114
+    symmetry: A
+    symmetry_index: 163
+  - energy:
+      units: eV
+      value: 46.134399904850405
+    homo_distance: 116
+    index: 164
+    label: LUMO+115
+    symmetry: A
+    symmetry_index: 164
+  - energy:
+      units: eV
+      value: 46.964673685495995
+    homo_distance: 117
+    index: 165
+    label: LUMO+116
+    symmetry: A
+    symmetry_index: 165
+  - energy:
+      units: eV
+      value: 47.09575092728185
+    homo_distance: 118
+    index: 166
+    label: LUMO+117
+    symmetry: A
+    symmetry_index: 166
+  - energy:
+      units: eV
+      value: 47.53396307212705
+    homo_distance: 119
+    index: 167
+    label: LUMO+118
+    symmetry: A
+    symmetry_index: 167
+  - energy:
+      units: eV
+      value: 47.606426990515196
+    homo_distance: 120
+    index: 168
+    label: LUMO+119
+    symmetry: A
+    symmetry_index: 168
+  - energy:
+      units: eV
+      value: 47.68661894225755
+    homo_distance: 121
+    index: 169
+    label: LUMO+120
+    symmetry: A
+    symmetry_index: 169
+  - energy:
+      units: eV
+      value: 47.86109834319815
+    homo_distance: 122
+    index: 170
+    label: LUMO+121
+    symmetry: A
+    symmetry_index: 170
+  - energy:
+      units: eV
+      value: 47.9373174327232
+    homo_distance: 123
+    index: 171
+    label: LUMO+122
+    symmetry: A
+    symmetry_index: 171
+  - energy:
+      units: eV
+      value: 47.964936988548956
+    homo_distance: 124
+    index: 172
+    label: LUMO+123
+    symmetry: A
+    symmetry_index: 172
+  - energy:
+      units: eV
+      value: 48.11933438732265
+    homo_distance: 125
+    index: 173
+    label: LUMO+124
+    symmetry: A
+    symmetry_index: 173
+  - energy:
+      units: eV
+      value: 48.4418709343203
+    homo_distance: 126
+    index: 174
+    label: LUMO+125
+    symmetry: A
+    symmetry_index: 174
+  - energy:
+      units: eV
+      value: 48.52940996002615
+    homo_distance: 127
+    index: 175
+    label: LUMO+126
+    symmetry: A
+    symmetry_index: 175
+  - energy:
+      units: eV
+      value: 48.8924370479782
+    homo_distance: 128
+    index: 176
+    label: LUMO+127
+    symmetry: A
+    symmetry_index: 176
+  - energy:
+      units: eV
+      value: 49.1131758035038
+    homo_distance: 129
+    index: 177
+    label: LUMO+128
+    symmetry: A
+    symmetry_index: 177
+  - energy:
+      units: eV
+      value: 49.4346511064845
+    homo_distance: 130
+    index: 178
+    label: LUMO+129
+    symmetry: A
+    symmetry_index: 178
+  - energy:
+      units: eV
+      value: 50.21749544298795
+    homo_distance: 131
+    index: 179
+    label: LUMO+130
+    symmetry: A
+    symmetry_index: 179
+  - energy:
+      units: eV
+      value: 50.23006710288105
+    homo_distance: 132
+    index: 180
+    label: LUMO+131
+    symmetry: A
+    symmetry_index: 180
+  - energy:
+      units: eV
+      value: 51.756925129421596
+    homo_distance: 133
+    index: 181
+    label: LUMO+132
+    symmetry: A
+    symmetry_index: 181
+  - energy:
+      units: eV
+      value: 51.8840567203752
+    homo_distance: 134
+    index: 182
+    label: LUMO+133
+    symmetry: A
+    symmetry_index: 182
+  - energy:
+      units: eV
+      value: 52.93466108577065
+    homo_distance: 135
+    index: 183
+    label: LUMO+134
+    symmetry: A
+    symmetry_index: 183
+  - energy:
+      units: eV
+      value: 53.06386074198805
+    homo_distance: 136
+    index: 184
+    label: LUMO+135
+    symmetry: A
+    symmetry_index: 184
+  - energy:
+      units: eV
+      value: 53.6299391851832
+    homo_distance: 137
+    index: 185
+    label: LUMO+136
+    symmetry: A
+    symmetry_index: 185
+  - energy:
+      units: eV
+      value: 53.99623163934125
+    homo_distance: 138
+    index: 186
+    label: LUMO+137
+    symmetry: A
+    symmetry_index: 186
+  - energy:
+      units: eV
+      value: 54.02513013026435
+    homo_distance: 139
+    index: 187
+    label: LUMO+138
+    symmetry: A
+    symmetry_index: 187
+  - energy:
+      units: eV
+      value: 54.18088809829055
+    homo_distance: 140
+    index: 188
+    label: LUMO+139
+    symmetry: A
+    symmetry_index: 188
+  - energy:
+      units: eV
+      value: 54.32445536581435
+    homo_distance: 141
+    index: 189
+    label: LUMO+140
+    symmetry: A
+    symmetry_index: 189
+  - energy:
+      units: eV
+      value: 54.45985921782315
+    homo_distance: 142
+    index: 190
+    label: LUMO+141
+    symmetry: A
+    symmetry_index: 190
+  - energy:
+      units: eV
+      value: 55.698058871753304
+    homo_distance: 143
+    index: 191
+    label: LUMO+142
+    symmetry: A
+    symmetry_index: 191
+  - energy:
+      units: eV
+      value: 56.19363261628391
+    homo_distance: 144
+    index: 192
+    label: LUMO+143
+    symmetry: A
+    symmetry_index: 192
+  - energy:
+      units: eV
+      value: 56.61380361284095
+    homo_distance: 145
+    index: 193
+    label: LUMO+144
+    symmetry: A
+    symmetry_index: 193
+  - energy:
+      units: eV
+      value: 57.45871711864345
+    homo_distance: 146
+    index: 194
+    label: LUMO+145
+    symmetry: A
+    symmetry_index: 194
+  - energy:
+      units: eV
+      value: 57.80381190384755
+    homo_distance: 147
+    index: 195
+    label: LUMO+146
+    symmetry: A
+    symmetry_index: 195
+  - energy:
+      units: eV
+      value: 58.130348524447555
+    homo_distance: 148
+    index: 196
+    label: LUMO+147
+    symmetry: A
+    symmetry_index: 196
+  - energy:
+      units: eV
+      value: 58.309862031622394
+    homo_distance: 149
+    index: 197
+    label: LUMO+148
+    symmetry: A
+    symmetry_index: 197
+  - energy:
+      units: eV
+      value: 58.7195022221651
+    homo_distance: 150
+    index: 198
+    label: LUMO+149
+    symmetry: A
+    symmetry_index: 198
+  - energy:
+      units: eV
+      value: 58.9777926890597
+    homo_distance: 151
+    index: 199
+    label: LUMO+150
+    symmetry: A
+    symmetry_index: 199
+  - energy:
+      units: eV
+      value: 59.416875598226504
+    homo_distance: 152
+    index: 200
+    label: LUMO+151
+    symmetry: A
+    symmetry_index: 200
+  - energy:
+      units: eV
+      value: 59.850516230383306
+    homo_distance: 153
+    index: 201
+    label: LUMO+152
+    symmetry: A
+    symmetry_index: 201
+  - energy:
+      units: eV
+      value: 60.7062054446656
+    homo_distance: 154
+    index: 202
+    label: LUMO+153
+    symmetry: A
+    symmetry_index: 202
+  - energy:
+      units: eV
+      value: 61.37057141066135
+    homo_distance: 155
+    index: 203
+    label: LUMO+154
+    symmetry: A
+    symmetry_index: 203
+  - energy:
+      units: eV
+      value: 61.4377018975797
+    homo_distance: 156
+    index: 204
+    label: LUMO+155
+    symmetry: A
+    symmetry_index: 204
+  - energy:
+      units: eV
+      value: 62.354807207919855
+    homo_distance: 157
+    index: 205
+    label: LUMO+156
+    symmetry: A
+    symmetry_index: 205
+  - energy:
+      units: eV
+      value: 62.54125961828245
+    homo_distance: 158
+    index: 206
+    label: LUMO+157
+    symmetry: A
+    symmetry_index: 206
+  - energy:
+      units: eV
+      value: 62.696827106613306
+    homo_distance: 159
+    index: 207
+    label: LUMO+158
+    symmetry: A
+    symmetry_index: 207
+  - energy:
+      units: eV
+      value: 62.791522726587296
+    homo_distance: 160
+    index: 208
+    label: LUMO+159
+    symmetry: A
+    symmetry_index: 208
+  - energy:
+      units: eV
+      value: 63.0317992565788
+    homo_distance: 161
+    index: 209
+    label: LUMO+160
+    symmetry: A
+    symmetry_index: 209
+  - energy:
+      units: eV
+      value: 63.690260352018704
+    homo_distance: 162
+    index: 210
+    label: LUMO+161
+    symmetry: A
+    symmetry_index: 210
+  - energy:
+      units: eV
+      value: 63.91366582327921
+    homo_distance: 163
+    index: 211
+    label: LUMO+162
+    symmetry: A
+    symmetry_index: 211
+  - energy:
+      units: eV
+      value: 63.92982938599891
+    homo_distance: 164
+    index: 212
+    label: LUMO+163
+    symmetry: A
+    symmetry_index: 212
+  - energy:
+      units: eV
+      value: 64.93526285221135
+    homo_distance: 165
+    index: 213
+    label: LUMO+164
+    symmetry: A
+    symmetry_index: 213
+  - energy:
+      units: eV
+      value: 66.639593532048
+    homo_distance: 166
+    index: 214
+    label: LUMO+165
+    symmetry: A
+    symmetry_index: 214
+  - energy:
+      units: eV
+      value: 67.93485546042801
+    homo_distance: 167
+    index: 215
+    label: LUMO+166
+    symmetry: A
+    symmetry_index: 215
+  - energy:
+      units: eV
+      value: 68.32893073872211
+    homo_distance: 168
+    index: 216
+    label: LUMO+167
+    symmetry: A
+    symmetry_index: 216
+  - energy:
+      units: eV
+      value: 69.89584392405625
+    homo_distance: 169
+    index: 217
+    label: LUMO+168
+    symmetry: A
+    symmetry_index: 217
+  - energy:
+      units: eV
+      value: 70.8139832670283
+    homo_distance: 170
+    index: 218
+    label: LUMO+169
+    symmetry: A
+    symmetry_index: 218
+  - energy:
+      units: eV
+      value: 71.11594800692815
+    homo_distance: 171
+    index: 219
+    label: LUMO+170
+    symmetry: A
+    symmetry_index: 219
+  - energy:
+      units: eV
+      value: 71.46664833745255
+    homo_distance: 172
+    index: 220
+    label: LUMO+171
+    symmetry: A
+    symmetry_index: 220
+  - energy:
+      units: eV
+      value: 71.56733046213755
+    homo_distance: 173
+    index: 221
+    label: LUMO+172
+    symmetry: A
+    symmetry_index: 221
+  - energy:
+      units: eV
+      value: 71.7358505697522
+    homo_distance: 174
+    index: 222
+    label: LUMO+173
+    symmetry: A
+    symmetry_index: 222
+  - energy:
+      units: eV
+      value: 72.02429125128221
+    homo_distance: 175
+    index: 223
+    label: LUMO+174
+    symmetry: A
+    symmetry_index: 223
+  - energy:
+      units: eV
+      value: 72.55434182067116
+    homo_distance: 176
+    index: 224
+    label: LUMO+175
+    symmetry: A
+    symmetry_index: 224
+  - energy:
+      units: eV
+      value: 74.16745993782021
+    homo_distance: 177
+    index: 225
+    label: LUMO+176
+    symmetry: A
+    symmetry_index: 225
+  - energy:
+      units: eV
+      value: 74.3830829529564
+    homo_distance: 178
+    index: 226
+    label: LUMO+177
+    symmetry: A
+    symmetry_index: 226
+  - energy:
+      units: eV
+      value: 74.4621592379117
+    homo_distance: 179
+    index: 227
+    label: LUMO+178
+    symmetry: A
+    symmetry_index: 227
+  - energy:
+      units: eV
+      value: 74.62082882413826
+    homo_distance: 180
+    index: 228
+    label: LUMO+179
+    symmetry: A
+    symmetry_index: 228
+  - energy:
+      units: eV
+      value: 74.8512820441267
+    homo_distance: 181
+    index: 229
+    label: LUMO+180
+    symmetry: A
+    symmetry_index: 229
+  - energy:
+      units: eV
+      value: 77.7823291734024
+    homo_distance: 182
+    index: 230
+    label: LUMO+181
+    symmetry: A
+    symmetry_index: 230
+  - energy:
+      units: eV
+      value: 77.91797792787665
+    homo_distance: 183
+    index: 231
+    label: LUMO+182
+    symmetry: A
+    symmetry_index: 231
+  - energy:
+      units: eV
+      value: 78.29882847303645
+    homo_distance: 184
+    index: 232
+    label: LUMO+183
+    symmetry: A
+    symmetry_index: 232
+  - energy:
+      units: eV
+      value: 78.70694482601635
+    homo_distance: 185
+    index: 233
+    label: LUMO+184
+    symmetry: A
+    symmetry_index: 233
+  - energy:
+      units: eV
+      value: 78.92610532120905
+    homo_distance: 186
+    index: 234
+    label: LUMO+185
+    symmetry: A
+    symmetry_index: 234
+  - energy:
+      units: eV
+      value: 79.0710603693704
+    homo_distance: 187
+    index: 235
+    label: LUMO+186
+    symmetry: A
+    symmetry_index: 235
+  - energy:
+      units: eV
+      value: 80.7871735789337
+    homo_distance: 188
+    index: 236
+    label: LUMO+187
+    symmetry: A
+    symmetry_index: 236
+  - energy:
+      units: eV
+      value: 81.83913851358164
+    homo_distance: 189
+    index: 237
+    label: LUMO+188
+    symmetry: A
+    symmetry_index: 237
+  - energy:
+      units: eV
+      value: 84.38884529276666
+    homo_distance: 190
+    index: 238
+    label: LUMO+189
+    symmetry: A
+    symmetry_index: 238
+  - energy:
+      units: eV
+      value: 84.70308236732406
+    homo_distance: 191
+    index: 239
+    label: LUMO+190
+    symmetry: A
+    symmetry_index: 239
+  - energy:
+      units: eV
+      value: 85.128641218121
+    homo_distance: 192
+    index: 240
+    label: LUMO+191
+    symmetry: A
+    symmetry_index: 240
+  - energy:
+      units: eV
+      value: 86.67144511630084
+    homo_distance: 193
+    index: 241
+    label: LUMO+192
+    symmetry: A
+    symmetry_index: 241
+  - energy:
+      units: eV
+      value: 88.4961589635987
+    homo_distance: 194
+    index: 242
+    label: LUMO+193
+    symmetry: A
+    symmetry_index: 242
+  - energy:
+      units: eV
+      value: 90.77094911962355
+    homo_distance: 195
+    index: 243
+    label: LUMO+194
+    symmetry: A
+    symmetry_index: 243
+  - energy:
+      units: eV
+      value: 95.2049626793659
+    homo_distance: 196
+    index: 244
+    label: LUMO+195
+    symmetry: A
+    symmetry_index: 244
+  - energy:
+      units: eV
+      value: 98.7392862152001
+    homo_distance: 197
+    index: 245
+    label: LUMO+196
+    symmetry: A
+    symmetry_index: 245
+  - energy:
+      units: eV
+      value: 99.9240699202771
+    homo_distance: 198
+    index: 246
+    label: LUMO+197
+    symmetry: A
+    symmetry_index: 246
+pdm:
+  origin:
+    x:
+      units: "\xC5"
+      value: -12.69622
+    y:
+      units: "\xC5"
+      value: 2.778755
+    z:
+      units: "\xC5"
+      value: -1.689173
+  total:
+    units: D
+    value: 3.3672933570335757
+  vector:
+    x:
+      units: D
+      value: -1.3435924746403
+    y:
+      units: D
+      value: -2.4970369138143003
+    z:
+      units: D
+      value: -1.8161030987973001
+  x-angle:
+    units: deg
+    value: 24.93156704669933
+  xy-angle:
+    units: deg
+    value: 0.5809189135732792
+raw_atoms:
+  charge: 0
+  exact_mass:
+    units: g mol^-1
+    value: 182.226
+  formula: C12H10N2
+  linearity_ratio: 0.4216345929282077
+  molar_mass:
+    units: g mol^-1
+    value: 182.22119999999998
+  num_atoms: 24
+  planarity_ratio: 0.11557696617530355
+  smiles: c1ccc(/N=N\c2ccccc2)cc1
+  values:
+  - coords:
+      x:
+        units: "\xC5"
+        value: -10.17089
+      y:
+        units: "\xC5"
+        value: 2.3468
+      z:
+        units: "\xC5"
+        value: -0.10637
+    element: 6
+    group: C1
+    index: 1
+    label: C1
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -10.19549
+      y:
+        units: "\xC5"
+        value: 0.9524
+      z:
+        units: "\xC5"
+        value: -0.18596
+    element: 6
+    group: C2
+    index: 2
+    label: C2
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -9.00514
+      y:
+        units: "\xC5"
+        value: 0.22716
+      z:
+        units: "\xC5"
+        value: -0.09469
+    element: 6
+    group: C1
+    index: 3
+    label: C3
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -7.78745
+      y:
+        units: "\xC5"
+        value: 0.89488
+      z:
+        units: "\xC5"
+        value: 0.06857
+    element: 6
+    group: C3
+    index: 4
+    label: C4
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -7.75151
+      y:
+        units: "\xC5"
+        value: 2.30332
+      z:
+        units: "\xC5"
+        value: 0.13075
+    element: 6
+    group: C4
+    index: 5
+    label: C5
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -8.95521
+      y:
+        units: "\xC5"
+        value: 3.01806
+      z:
+        units: "\xC5"
+        value: 0.05741
+    element: 6
+    group: C3
+    index: 6
+    label: C6
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -8.94887
+      y:
+        units: "\xC5"
+        value: 4.09907
+      z:
+        units: "\xC5"
+        value: 0.12145
+    element: 1
+    group: H3
+    index: 7
+    label: H7
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -11.09422
+      y:
+        units: "\xC5"
+        value: 2.90804
+      z:
+        units: "\xC5"
+        value: -0.16925
+    element: 1
+    group: H1
+    index: 8
+    label: H8
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -11.13722
+      y:
+        units: "\xC5"
+        value: 0.43375
+      z:
+        units: "\xC5"
+        value: -0.31084
+    element: 1
+    group: H2
+    index: 9
+    label: H9
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -9.02617
+      y:
+        units: "\xC5"
+        value: -0.85382
+      z:
+        units: "\xC5"
+        value: -0.14533
+    element: 1
+    group: H1
+    index: 10
+    label: H10
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.88283
+      y:
+        units: "\xC5"
+        value: 0.3086
+      z:
+        units: "\xC5"
+        value: 0.15424
+    element: 1
+    group: H3
+    index: 11
+    label: H11
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.53927
+      y:
+        units: "\xC5"
+        value: 3.03211
+      z:
+        units: "\xC5"
+        value: 0.32117
+    element: 7
+    group: N5
+    index: 12
+    label: N12
+    mass:
+      units: g mol^-1
+      value: 14.007
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.39359
+      y:
+        units: "\xC5"
+        value: 2.70438
+      z:
+        units: "\xC5"
+        value: -0.07585
+    element: 7
+    group: N5
+    index: 13
+    label: N13
+    mass:
+      units: g mol^-1
+      value: 14.007
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.08064
+      y:
+        units: "\xC5"
+        value: 1.76187
+      z:
+        units: "\xC5"
+        value: -1.10086
+    element: 6
+    group: C4
+    index: 14
+    label: C14
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -3.86882
+      y:
+        units: "\xC5"
+        value: 1.06222
+      z:
+        units: "\xC5"
+        value: -1.01655
+    element: 6
+    group: C3
+    index: 15
+    label: C15
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -3.50801
+      y:
+        units: "\xC5"
+        value: 0.14473
+      z:
+        units: "\xC5"
+        value: -2.00818
+    element: 6
+    group: C1
+    index: 16
+    label: C16
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -4.35072
+      y:
+        units: "\xC5"
+        value: -0.07273
+      z:
+        units: "\xC5"
+        value: -3.10081
+    element: 6
+    group: C2
+    index: 17
+    label: C17
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.55193
+      y:
+        units: "\xC5"
+        value: 0.63231
+      z:
+        units: "\xC5"
+        value: -3.20677
+    element: 6
+    group: C1
+    index: 18
+    label: C18
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -5.91644
+      y:
+        units: "\xC5"
+        value: 1.55021
+      z:
+        units: "\xC5"
+        value: -2.21689
+    element: 6
+    group: C3
+    index: 19
+    label: C19
+    mass:
+      units: g mol^-1
+      value: 12.011
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.84309
+      y:
+        units: "\xC5"
+        value: 2.09555
+      z:
+        units: "\xC5"
+        value: -2.33233
+    element: 1
+    group: H3
+    index: 20
+    label: H20
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -3.20583
+      y:
+        units: "\xC5"
+        value: 1.22516
+      z:
+        units: "\xC5"
+        value: -0.17595
+    element: 1
+    group: H3
+    index: 21
+    label: H21
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -2.57362
+      y:
+        units: "\xC5"
+        value: -0.39595
+      z:
+        units: "\xC5"
+        value: -1.93036
+    element: 1
+    group: H1
+    index: 22
+    label: H22
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -4.06956
+      y:
+        units: "\xC5"
+        value: -0.78174
+      z:
+        units: "\xC5"
+        value: -3.86873
+    element: 1
+    group: H2
+    index: 23
+    label: H23
+    mass:
+      units: g mol^-1
+      value: 1.008
+  - coords:
+      x:
+        units: "\xC5"
+        value: -6.19913
+      y:
+        units: "\xC5"
+        value: 0.47141
+      z:
+        units: "\xC5"
+        value: -4.05928
+    element: 1
+    group: H1
+    index: 24
+    label: H24
+    mass:
+      units: g mol^-1
+      value: 1.008
+  x-extension:
+    units: "\xC5"
+    value: 8.5636
+  y-extension:
+    units: "\xC5"
+    value: 4.95289
+  z-extension:
+    units: "\xC5"
+    value: 4.380450000000001
+soc: []
+vibrations:
+  num_negative: 0
+  num_vibrations: 0
+  values: []
