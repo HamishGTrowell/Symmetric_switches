@@ -1,0 +1,20 @@
+#!/bin/bash
+#PBS -N 1CPU_4GB_TD_DFT
+#PBS -l select=1:ncpus=1:mem=5600MB
+#PBS -l walltime="72:00:00"
+#PBS -j oe
+#PBS -J 0-3
+case $PBS_ARRAY_INDEX in
+  0)
+    exec digichem6 resume '/rds/general/user/hgt20/home/azobenzene-symmetry/E_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Input/silico.resume.pickle' >> '/rds/general/user/hgt20/home/azobenzene-symmetry/E_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Logs/silico.out' 2>&1
+    ;;
+  1)
+    exec digichem6 resume '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_T_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Input/silico.resume.pickle' >> '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_T_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Logs/silico.out' 2>&1
+    ;;
+  2)
+    exec digichem6 resume '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Input/silico.resume.pickle' >> '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Logs/silico.out' 2>&1
+    ;;
+  3)
+    exec digichem6 resume '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_planar_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Input/silico.resume.pickle' >> '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_planar_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Logs/silico.out' 2>&1
+    ;;
+esac
