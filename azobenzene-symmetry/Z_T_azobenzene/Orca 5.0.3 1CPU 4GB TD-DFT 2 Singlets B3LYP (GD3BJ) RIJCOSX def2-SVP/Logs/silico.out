@@ -1,0 +1,184 @@
+digichem: INFO: Starting calculation '1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP' on 04/09/2025 17:57:58
+digichem: INFO: Scratch directory is: '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13'
+digichem: INFO: Host is: 'cx3-4-27.cx3.hpc.ic.ac.uk'
+digichem: INFO: Calculation end on 04/09/2025 18:01:18
+digichem: INFO: Calculation duration: 3 m, 20 s (199.877354 total seconds)
+digichem: INFO: Starting post-processing
+digichem: INFO: Parsing calculation result '/rds/general/user/hgt20/home/azobenzene-symmetry/Z_T_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Output/Z_T_azobenzene.log'
+digichem: INFO: Waiting for database lock on file '/rds/general/user/hgt20/home/.digichem/digichem.main.db/.silico_lock'
+digichem: INFO: Acquired database lock
+digichem: INFO: Flushing database
+digichem: INFO: Pre-generating cube files using 1 threads because 'cubegen_parallel': 'pool'...
+digichem: INFO: Rendering 'Z_T_azobenzene.skeletal.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.106867 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.095272 total seconds)
+digichem: INFO: Converting orca/gbw file 'Z_T_azobenzene.gbw' to gaussian/cube file 'Z_T_azobenzene.HOMO.cube'
+digichem: INFO: File generation duration: 1 s (1.176292 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.structure.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x0y0z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x0y0z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x90y0z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x0y90z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x45y45z45.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: INFO: Converting orca/gbw file 'Z_T_azobenzene.gbw' to gaussian/cube file 'Z_T_azobenzene.SCF.cube'
+digichem: INFO: File generation duration: 27 s (27.483586 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.SCF.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x0y0z0.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x90y0z0.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x0y90z0.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x45y45z45.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.dipole.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x0y0z0.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x90y0z0.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x0y90z0.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x45y45z45.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x0y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x90y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x0y90z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x45y45z45.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Not creating file due to previous errors
+digichem: INFO: Converting orca/gbw file 'Z_T_azobenzene.gbw' to gaussian/cube file 'Z_T_azobenzene.LUMO.cube'
+digichem: INFO: File generation duration: 1 s (1.232422 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x0y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x90y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x0y90z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x45y45z45.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x0y0z0.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x90y0z0.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x0y90z0.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x45y45z45.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.orbitals.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.337282 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.excited_states.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.249594 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.simulated_absorption_spectrum.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.205021 total seconds)
+digichem: INFO: Writing PDF file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/Z_T_azobenzene.traditional.pdf'
+digichem: INFO: Pre-generating cube files using 1 threads because 'cubegen_parallel': 'pool'...
+digichem: INFO: Rendering 'Z_T_azobenzene.skeletal.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.062698 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.073294 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.structure.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x0y0z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.simulated_absorption_spectrum.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.189461 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.SCF.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x0y0z0.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x90y0z0.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x0y90z0.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.x45y45z45.jpg'
+	File_maker_exception: Error making 'Density_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Density/Z_T_azobenzene.SCF.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x0y0z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x90y0z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x0y90z0.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.x45y45z45.jpg'
+	File_maker_exception: Error making 'Structure_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Structure/Z_T_azobenzene.structure.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.dipole.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x0y0z0.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x90y0z0.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x0y90z0.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.x45y45z45.jpg'
+	File_maker_exception: Error making 'Permanent_dipole_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/Dipole Moment/Z_T_azobenzene.dipole.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.orbitals.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.074476 total seconds)
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x0y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x90y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x0y90z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.x45y45z45.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO/Z_T_azobenzene.HOMO.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x0y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x90y0z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x0y90z0.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Not creating file due to previous errors
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.x45y45z45.jpg'
+	File_maker_exception: Error making 'Orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/LUMO/Z_T_azobenzene.LUMO.jpg'; Not creating file due to previous errors
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x0y0z0.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x90y0z0.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x0y90z0.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.HOMO_LUMO.jpg' to file(s)
+digichem: ERROR: Unable to get file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.x45y45z45.jpg'
+	File_maker_exception: Error making 'Combined_orbital_image_maker' file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/image/HOMO LUMO/Z_T_azobenzene.HOMO_LUMO.jpg'; Could not locate vmd executable 'vmd'
+	FileNotFoundError: [Errno 2] No such file or directory: 'vmd'
+digichem: INFO: Rendering 'Z_T_azobenzene.excited_states.png' to file(s)
+digichem: INFO: File generation duration: 0 s (0.089947 total seconds)
+digichem: INFO: Writing PDF file '/tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Report/Z_T_azobenzene.journal.pdf'
+digichem: INFO: Moving report files from scratch dir...
+digichem: INFO: Post-processing complete
+digichem: INFO: Post-processing duration: 45 s (45.308825 total seconds)
+digichem: INFO: Starting cleanup
+digichem: INFO: Cleanup complete
+digichem: INFO: Cleanup duration: 0 s (0.019244 total seconds)
+digichem: INFO: Handling of calculation '1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP' complete
+digichem: INFO: Total calculation handling duration: 4 m, 5 s (245.216956 total seconds)

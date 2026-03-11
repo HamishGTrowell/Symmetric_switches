@@ -1,0 +1,172 @@
+_id
+  ----------------------------------------
+  825250bf6c67d1924f29f6a65a4a2ca133861857
+  ----------------------------------------
+
+metadata
+------------------------------------  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+name                                  Z_T_azobenzene
+log_files                             /rds/general/user/hgt20/home/azobenzene-symmetry/Z_T_azobenzene/Orca 5.0.3 1CPU 4GB TD-DFT 2 Singlets B3LYP (GD3BJ) RIJCOSX def2-SVP/Output/Z_T_azobenzene.log
+auxiliary_files:gbw_file              /tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Output/Z_T_azobenzene.gbw
+auxiliary_files:density_file          /tmp/hgt20/34a5325826d3490c8d6e9836d54b2e13/Output/Z_T_azobenzene.densities
+history
+charge                                0.00
+multiplicity                          1.00
+user                                  hgt20
+package                               ORCA
+package_version                       5.0.3
+digichem_version                      6.10.3
+calculations                          Excited States
+methods                               DFT
+functional
+basis_set                             def2-SVP
+orbital_spin_type                     restricted
+success                               1.00
+optimisation_converged
+date / s
+date:string
+insert_date / s
+insert_date:string
+duration / s                          199.13
+duration:string                       3 m, 19 s
+temperature / K
+pressure / atm
+solvent:model
+solvent:name
+num_cpu                               1.00
+memory_used / KB                      97600.00
+memory_available / GB                 4.00
+performance:cpu_allocated             1.00
+performance:cpu_efficiency / %        33.31
+performance:memory_allocated / bytes  4000000000.00
+performance:maximum_memory / bytes    125136896.00
+performance:memory_margin / bytes     3874863104.00
+performance:memory_efficiency / %     2.43
+------------------------------------  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ground_state
+------------------  ---------
+index               0.00
+symbol              S(0)
+charge              0.00
+multiplicity        1.00
+multiplicity_index  0.00
+energy / eV         -15565.18
+------------------  ---------
+
+energies
+--------------  --------
+final / eV      -15565.2
+scf:num_steps   1
+scf:final / eV  -15565.2
+mp:num_steps    0
+mp:final / eV
+mp:order        0
+cc:num_steps    0
+cc:final / eV
+--------------  --------
+
+atoms
+---------------------  -----------------------
+formula                C12H10N2
+charge                 0.00
+smiles                 c1ccc(/N=N\c2ccccc2)cc1
+exact_mass / g mol^-1  182.23
+molar_mass / g mol^-1  182.22
+num_atoms              24.00
+x-extension / Å        7.58
+y-extension / Å        6.02
+z-extension / Å        5.89
+linearity_ratio        0.21
+planarity_ratio        0.02
+alignment_method       Minimal
+---------------------  -----------------------
+
+orbitals
+------------------  ------
+dE(HOMO-LUMO) / eV  3.47
+num_occupied        48.00
+num_virtual         198.00
+spin_type           none
+------------------  ------
+
+orbitals:HOMO
+--------------  -----
+index           48.00
+label           HOMO
+homo_distance   0.00
+energy / eV     -5.61
+symmetry        A
+symmetry_index  48.00
+--------------  -----
+
+orbitals:LUMO
+--------------  -----
+index           49.00
+label           LUMO
+homo_distance   1.00
+energy / eV     -2.15
+symmetry        A
+symmetry_index  49.00
+--------------  -----
+
+beta_orbitals
+------------------  -
+dE(HOMO-LUMO) / eV
+num_occupied        0
+num_virtual         0
+spin_type
+------------------  -
+
+pdm
+--------------  ------
+total / D       3.48
+origin:x / Å    -2.08
+origin:y / Å    4.52
+origin:z / Å    -13.74
+vector:x / D    -0.56
+vector:y / D    -2.46
+vector:z / D    -2.4
+x-angle / deg   83.47
+xy-angle / deg  57.78
+--------------  ------
+
+excited_states
+-----------  -
+num_singlet  2
+-----------  -
+
+excited_states:S(1)
+-------------------  -------
+index                1.00
+symbol               S(1)
+multiplicity         1.00
+multiplicity_index   1.00
+energy / eV          2.17
+wavelength / nm      570.58
+colour               Yellow
+cie:x                0.45
+cie:y                0.55
+symmetry             Singlet
+oscillator_strength  0.00
+tdm
+-------------------  -------
+
+excited_states:S(1):transitions:0
+-----------  -----
+index        1.00
+start:spin   none
+start:index  48.00
+start:label  HOMO
+end:spin     none
+end:index    49.00
+end:label    LUMO
+coefficient  nan
+probability  nan
+-----------  -----
+
+vibrations
+--------------  -
+num_vibrations  0
+num_negative    0
+--------------  -
